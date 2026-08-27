@@ -35,8 +35,8 @@ information reaching us.
 
 The data controller is:
 
-**Mykola Vasylevskyi**, an individual developer, {{CONTROLLER_COUNTRY}}.
-Contact: **{{SUPPORT_EMAIL}}**
+**Mykola Vasylevskyi**, an individual developer, Ukraine.
+Contact: **hamanets.app@icloud.com**
 
 Because Hamanets stores your financial data exclusively on your device and
 transmits it to no service of ours, we act as a controller only in respect of
@@ -280,7 +280,7 @@ backups are overwritten or deleted by you in iOS Settings.
 **Settings → Bank Sync**, and choose to delete the imported data at the same
 time. You can additionally revoke the token in monobank's own cabinet.
 
-**Support correspondence.** Write to **{{SUPPORT_EMAIL}}** to request a copy of
+**Support correspondence.** Write to **hamanets.app@icloud.com** to request a copy of
 what we hold from your report, to have it corrected, or to have it deleted. We
 will respond within **30 days**.
 
@@ -298,7 +298,7 @@ Hamanets is a general-audience personal finance app. It is not directed to
 children under 16, and we do not knowingly collect personal data from them.
 Since the app has no accounts and collects nothing automatically, we have no
 means of identifying a user's age. If you believe a child has sent us a support
-report containing personal data, contact **{{SUPPORT_EMAIL}}** and we will
+report containing personal data, contact **hamanets.app@icloud.com** and we will
 delete it.
 
 ---
