@@ -7,7 +7,7 @@ permalink: /support/
 
 ## Contact us
 
-Email **hamanets.app@icloud.com**. We read every message and normally reply within a
+Email **[hamanets.app@icloud.com](mailto:hamanets.app@icloud.com)**. We read every message and normally reply within a
 few working days.
 
 ## Reporting a problem from inside the app
