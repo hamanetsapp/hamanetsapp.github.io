@@ -18,4 +18,4 @@ analytics, no ads.
 
 ## Contact
 
-**hamanets.app@icloud.com**
+**[hamanets.app@icloud.com](mailto:hamanets.app@icloud.com)**
