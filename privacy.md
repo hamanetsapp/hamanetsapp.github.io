@@ -317,4 +317,4 @@ policy.
 
 Questions about this policy or about your data:
 
-**{{SUPPORT_EMAIL}}**
+**[hamanets.app@icloud.com](mailto:hamanets.app@icloud.com)**
